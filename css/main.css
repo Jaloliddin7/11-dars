@@ -207,6 +207,7 @@ ul{
 .card3{
     background: #FAFAFC;
     padding: 100px 0px;
+    margin-bottom: 99px;
 }
 .card3-title{
     font-size: 36px;
@@ -280,3 +281,123 @@ ul{
 }
 
 /* CARD3 END */
+
+/* MIDDLE  */
+
+.middle .conteiner{
+    display: flex;
+    gap: 64px;
+}
+.middle-list{
+    display: flex;
+    flex-direction: column;
+}
+.middle-title{
+    font-size: 36px;
+    line-height: 43px;
+    color: #45525B;
+    width: 100%;
+    max-width: 309px;
+    margin-bottom: 11px;
+}
+.middle-text{
+    width: 100%;
+    max-width: 368px;
+    font-size: 17px;
+    line-height: 22px;
+    color: #6F7278;
+    margin-bottom: 19px;
+}
+.goo{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 101px;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-right: 69px;
+    padding: 7px 0px 5px;
+}
+.card1-img-item p{
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #6F7278;
+}
+.card1-img-item h4{
+    font-size: 16px;
+    line-height: 22px;
+    color: #45525B;
+}
+.r2{
+    margin-right: 0;
+}
+/* MIDDLE END */
+
+/* BUTTON */
+.button{
+    background-color: #FAFAFC;
+    padding: 99px 0px 101px;
+}
+
+.button-title{
+    text-align: center ;
+    margin-bottom: 23px;
+}
+.or1{
+    text-align: center;
+}
+.button-list{
+    display: flex;
+    gap: 20px;
+}
+.button-item{
+    background-color: #fff;
+    background: #FFFFFF;
+    border-radius: 10px;
+    height: 100%;
+    border-radius: 10px;
+}
+.button-img{
+    margin-bottom:29px;
+    z-index: 1; 
+    background: #45525B;
+    border-radius: 10px 10px 0px 0px;
+    background-image: url("../imges/JPG/IMAGE-1.jpg");
+    width: 376px;
+    height: 211px;
+}
+.button-orange{
+    font-size: 12px;
+    line-height: 17px;
+    margin-bottom: 8px;
+    margin-left: 30px;
+}
+.button-text{
+    font-size: 16px;
+    line-height: 19px;
+    color: #45525B;
+    width: 100%;
+    max-width: 308px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+.button-date{
+    font-size: 13px;
+    line-height: 20px;  
+    color: #6F7278;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+.f1{
+    margin-top: 28px;
+}
+.d1{
+    background-color: rgb(238, 237, 237);
+}
+/* BUTTON END */
